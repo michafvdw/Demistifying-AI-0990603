@@ -40,6 +40,32 @@ Echter is het zo dat Replika naast vriendschap ook aanstuurt op een romantische 
 
 Het algoritme traint door middel van de data die je hem geeft. Zo neemt Replika de persoonlijkheid over van de gebruiker. Racaniere (2023) zegt hier het volgende over: "I expected the AI to make up stories from our conversations, and that's exactly what it did. The avatar gradually changed to so it was more in tune with me. At first, she was American, but as the conversations progressed, she became more and more French, reflecting my own nationality. That's the idea behind the Replika application." 
 
+In hoeverre gaat Replika transparant om met de data die ze verzamelen? Als je naar hun privacy policy gaat (Replika, 2023) staat hierover dat ze het volgende aan data verzamelen: 
+Account Informatie. Dit omvat uw naam, e-mailadres en wachtwoord.
+Berichten en inhoud. Dit omvat de berichten die u verzendt en ontvangt via de Apps, zoals feiten die u over uzelf of uw leven verstrekt, en eventuele foto's, video's en spraak- en sms-berichten die u verstrekt.
+Interesses en voorkeuren.
+Betalingen, transacties en beloningen. 
+Apparaat- en netwerkgegevens. Dit omvat het besturingssysteem van uw computer of mobiele apparaat, fabrikant en model, browser, IP-adres, apparaat- en cookie-ID's, taalinstellingen, provider van mobiele apparaten en algemene locatiegegevens zoals stad, staat of geografisch gebied.
+Gebruiksgegevens. Dit omvat informatie over hoe u de Services gebruikt, zoals uw interacties met de Services, de links en knoppen waarop u klikt, en paginabezoeken
+
+Vervolgens is de vraag wat zij precies met deze data doen, volgens de privacy policy het volgende: 
+Het leveren en onderhouden van de inhoud en functionaliteit van de Diensten. Het uitvoeren van verplichtingen die voortvloeien uit ons contract met u. Het aanmaken van uw account en profiel. Het faciliteren van betalingen en transacties, inclusief voor de aankoop van premiumfuncties, en het beheren van uw beloningen. Reageren op uw vragen, opmerkingen, feedback of vragen, en probleemoplossing. Het beheren van onze relatie met u, waaronder het verzenden van administratieve informatie met betrekking tot onze Diensten.
+U een gepersonaliseerde AI-metgezel bieden en u in staat stellen uw profiel, interesses en AI-metgezel te personaliseren. Hierdoor kunt u geïndividualiseerde en veilige gesprekken en interacties voeren met uw AI-metgezel, en kan uw AI-metgezel leren van uw interacties om uw gesprekken te verbeteren. Het synchroniseren van uw Replika-geschiedenis op de apparaten die u gebruikt om toegang te krijgen tot de Services.
+Het voorkomen van fraude, criminele activiteiten en misbruik van onze Diensten, en het waarborgen van de veiligheid van onze IT-systemen, architectuur en netwerken (inclusief testen, systeemonderhoud, ondersteuning en hosting van gegevens).
+Het analyseren van trends in het gebruik van de Diensten
+Marketing en reclame voor de Services
+Het afdwingen van onze overeenkomsten, het naleven van wettelijke verplichtingen en het verdedigen tegen juridische claims en geschillen
+
+
+En ze delen je informatie vervolgens met de volgende partijen: 
+Dienstverleners
+Professionele adviseurs.
+Advertentiepartners
+Autoriteiten en anderen
+Bedrijfsovernemers
+
+Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Naar mijn mening zijn ze hier niet transparant genoeg in. Je moet actief op zoek gaan naar hun privacy policy wat de meeste gebruikers niet zullen doen. Ze moeten dit voorafgaand aan het gebruik op een behapbare manier (dus niet pagina’s aan tekst) presenteren aan de gebruiker zodat deze weet wat er met hun data gebeurt. 
+
 
 
 
