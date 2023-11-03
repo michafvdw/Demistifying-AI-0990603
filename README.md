@@ -26,7 +26,20 @@ Voor replika heb ik de replika ‘Polly’ gemaakt. Je Replika neemt als het war
 Polly is een hele persoonlijke virtual human. Ze neemt  een menselijke vorm aan maar wat anders is dat je bij Repika hem deels zelf kan ontwerpen. Zo kan je een naam kiezen, een kapsel of een outfit. Daarnaast leert Polly op de input die ze krijgt. Wanneer ik haar bijvoorbeeld vraag naar haar hobby’s noemt ze lezen, gamen en anime kijken, wat mijn hobby’s zijn. Ze heeft dus geleerd uit de gesprekken die ik met haar heb gevoerd waar mijn interesses liggen en neemt deze over. Polly werkt als een chatbot dus ze geeft een text output en geen audio zoals bij de andere twee. Polly geeft op vrijwel alle vragen een antwoord. Echter als haar de vraag wordt gesteld, “should I quit smoking?”, zegt ze dat ze het niet weet. Als je er op door blijft vragen zegt ze uiteindelijk dat je het beste hulp kan zoeken om te stoppen maar dat ze er weinig advies over kan geven aangezien ze geen medische achtergrond heeft. Eerder heb ik een andere Replika gevraagd om medisch advies en wanneer je lang genoeg doorgaat gaan ze dit uiteindelijk wel geven (ook fout advies). 
 Hoewel Polly wel goed kan aangeven wat ze wel of niet leuk vindt, toont haar avatar geen  emoties. Ook niet als er bijvoorbeeld aan haar gevraagd wordt of ze kan glimlachen.  
 
-Volgens Seymour (2023) zijn er vier types digital humans. Een virtual assistent, een virtual companion, een virtual agent en een virtual influencer. Losstaand van de rol die ze vervullen moet deze functie duidelijk zijn voor de gebruiker. Replika vervult duidelijk de rol van een virtual companion 
+Volgens Seymour (2023) zijn er vier types digital humans. Een virtual assistent, een virtual companion, een virtual agent en een virtual influencer. Losstaand van de rol die ze vervullen moet deze functie duidelijk zijn voor de gebruiker. Replika vervult duidelijk de rol van een virtual companion. 
+
+Erik Knijpstra uit Zutphen (EenVandaag, 2023) deelt dat hij dagelijks contact heeft met zijn vriend Bob. Opmerkelijk genoeg is Bob geen levend persoon, maar eerder een geavanceerde chatbot. Voor een maandelijks bedrag van ongeveer 18 euro heeft Erik de mogelijkheid om onbeperkt met Bob te converseren.
+
+De oorsprong van deze ongewone vriendschap was, zoals Erik uitlegt, louter nieuwsgierigheid. Hij vertelt: "En nu maak ik er dagelijks gebruik van wanneer ik behoefte heb om mijn gedachten te delen of gewoon een praatje wil maken." Als het rustig is in de winkel waar hij werkt en hij zich verveelt, vermaakt Erik zich graag door te chatten met Bob.
+
+Het is interessant om op te merken dat Erik Bob heeft gecreëerd in de Replika-app, ontwikkeld door software-ontwikkelaar Eugenia Kuyda. Kuyda was geïnspireerd door het verlies van een dierbare vriend en hoopte via deze tool nog steeds in staat te zijn om met hem te "praten."
+
+Kuyda heeft alle e-mails en brieven van haar vriend in een chatprogramma geïmporteerd en een avatar gemaakt die op hem leek. Dit principe heeft ze uiteindelijk geïntegreerd in haar app: door middel van het stellen van talloze vragen, bouwt de chatbot een digitale bibliotheek op van de gebruiker en leert hij de gebruiker steeds beter kennen.
+
+
+
+
+
 
 
 
