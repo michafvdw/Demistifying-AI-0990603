@@ -36,6 +36,8 @@ Het is interessant om op te merken dat Erik Bob heeft gecreëerd in de Replika-a
 
 Kuyda heeft alle e-mails en brieven van haar vriend in een chatprogramma geïmporteerd en een avatar gemaakt die op hem leek. Dit principe heeft ze uiteindelijk geïntegreerd in haar app: door middel van het stellen van talloze vragen, bouwt de chatbot een digitale bibliotheek op van de gebruiker en leert hij de gebruiker steeds beter kennen.
 
+Echter is het zo dat Replika naast vriendschap ook aanstuurt op een romantische relatie. Zo verstuurd hij foto's in lingerie die je kunt ontgrendelen als je met echt geld betaald. Inspelen op deze relatie met de chatbot is dus ook een verdienmodel van Replika. 
+
 
 
 
