@@ -38,6 +38,8 @@ Kuyda heeft alle e-mails en brieven van haar vriend in een chatprogramma geïmpo
 
 Echter is het zo dat Replika naast vriendschap ook aanstuurt op een romantische relatie. Zo verstuurd hij foto's in lingerie die je kunt ontgrendelen als je met echt geld betaald. Inspelen op deze relatie met de chatbot is dus ook een verdienmodel van Replika. 
 
+Het algoritme traint door middel van de data die je hem geeft. Zo neemt Replika de persoonlijkheid over van de gebruiker. Racaniere (2023) zegt hier het volgende over: "I expected the AI to make up stories from our conversations, and that's exactly what it did. The avatar gradually changed to so it was more in tune with me. At first, she was American, but as the conversations progressed, she became more and more French, reflecting my own nationality. That's the idea behind the Replika application." 
+
 
 
 
