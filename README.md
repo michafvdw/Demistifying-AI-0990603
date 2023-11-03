@@ -66,6 +66,9 @@ Bedrijfsovernemers
 
 Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Naar mijn mening zijn ze hier niet transparant genoeg in. Je moet actief op zoek gaan naar hun privacy policy wat de meeste gebruikers niet zullen doen. Ze moeten dit voorafgaand aan het gebruik op een behapbare manier (dus niet pagina’s aan tekst) presenteren aan de gebruiker zodat deze weet wat er met hun data gebeurt. 
 
+## Bronnen 
+EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). Can I become friends with an AI avatar on the replika app? euronews. https://www.euronews.com/next/2023/10/31/can-i-become-friends-with-an-ai-avatar-on-the-replika-app Replika. (z.d.). Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika- Replika. (2023, 12 juni). replika.com. https://replika.com/legal/privacy Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
+
 
 
 
