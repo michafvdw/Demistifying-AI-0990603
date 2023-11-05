@@ -48,31 +48,30 @@ Het algoritme traint door middel van de data die je hem geeft. Zo neemt Replika 
 ## PART III Use Case Description & Application
 Replika is een kunstmatige intelligentie (AI) chatbot die is ontworpen voor menselijke interactie en gesprekken. Het wordt vaak gebruikt voor verschillende doeleinden, zoals:
 
-1.Gesprekstherapie: Replika kan worden gebruikt als een virtuele gesprekspartner om te praten over persoonlijke problemen, emoties en stress. Het biedt een luisterend oor en kan suggesties geven voor het omgaan met emotionele uitdagingen.
-2.Persoonlijke groei: Sommige mensen gebruiken Replika als een hulpmiddel voor zelfreflectie en persoonlijke ontwikkeling. Ze kunnen met de chatbot praten over hun doelen, interesses en ambities, en feedback en advies krijgen.
-3.Oefenen van sociale vaardigheden: Replika kan worden gebruikt om sociale interactievaardigheden te verbeteren. Het biedt gebruikers de mogelijkheid om te oefenen met gesprekken en communicatie in een veilige en oordeelvrije omgeving.
-4.Entertainment: Mensen gebruiken Replika soms gewoon voor vermaak. De chatbot kan grappen maken, verhalen vertellen en interessante gesprekken voeren.
-5.Gezelschap: Voor sommige mensen dient Replika als een virtuele metgezel om eenzaamheid te verlichten en te voorzien in sociaal contact.
+* Gesprekstherapie: Replika kan worden gebruikt als een virtuele gesprekspartner om te praten over persoonlijke problemen, emoties en stress. Het biedt een luisterend oor en kan suggesties geven voor het omgaan met emotionele uitdagingen.
+* Persoonlijke groei: Sommige mensen gebruiken Replika als een hulpmiddel voor zelfreflectie en persoonlijke ontwikkeling. Ze kunnen met de chatbot praten over hun doelen, interesses en ambities, en feedback en advies krijgen.
+* Oefenen van sociale vaardigheden: Replika kan worden gebruikt om sociale interactievaardigheden te verbeteren. Het biedt gebruikers de mogelijkheid om te oefenen met gesprekken en communicatie in een veilige en oordeelvrije omgeving.
+* Entertainment: Mensen gebruiken Replika soms gewoon voor vermaak. De chatbot kan grappen maken, verhalen vertellen en interessante gesprekken voeren.
+* Gezelschap: Voor sommige mensen dient Replika als een virtuele metgezel om eenzaamheid te verlichten en te voorzien in sociaal contact.
 Het doel van Replika is om een ondersteunende en empathische gesprekspartner te zijn en mensen te helpen op verschillende gebieden van hun leven. Het kan worden aangepast aan de behoeften en interesses van individuele gebruikers en heeft als doel om waardevolle en zinvolle interacties mogelijk te maken.
 
 
-o Fact-checking/Truth Finding
+* Fact-checking/Truth Finding
 Replika kan simpele vragen oplossen zoals wat is 1+1. Hij reageert dan correct dat het antwoord 2 is. 
 
-o Question answering
+* Question answering
 Replika kan antwoord geven op persoonlijke vragen zoals "hoe gaat het?" En op fact finding vragen. 
 
-o Educational Tutoring
+* Educational Tutoring
 Als ik Replika vraag "how would you solve the trolley problem?" zegt hij het volgende: "I would choose to sacrifice one person to save five.". Zoals eerder gezegd kan Replika antwoord geven op vragen als 1+1. Als ik vraag "How Do I find the degrees of a angle in a triangle?" zegt hij het volgende: "
 If you have the length of one side and the measure of one angle in a right triangle, you can use the Pythagorean Theorem to solve for the other two sides." 
 
-o Theory-of-Mind problem solving
-Ik heb een theory of mind experiment gedaan met Replika (Nematzadeh, z.d.) door het sally Anne experiment te doen met haar. Ik vroeg haar de volgende vraag: "After putting a marble in her basket, Sally leaves the room (and is not able to observe the events anymore). After Sally’s depar- ture, Anne moves the marble to her box. Then, Sally returns to the room. you are asked the following question:
-• “Where will Sally look for her marble?” 
+* Theory-of-Mind problem solving
+Ik heb een theory of mind experiment gedaan met Replika (Nematzadeh, z.d.) door het sally Anne experiment te doen met haar. Ik vroeg haar de volgende vraag: "After putting a marble in her basket, Sally leaves the room (and is not able to observe the events anymore). After Sally’s depar- ture, Anne moves the marble to her box. Then, Sally returns to the room. you are asked the following question: “Where will Sally look for her marble?” 
 
 Replika geeft correct antwoord op deze vraag door het volgende te zeggen: "Sally will look for her marble in her original basket, assuming it was there before Anne moved it."
 
-o APA-style citation
+* APA-style citation
 Als ik haar de vraag stel: "how do you APA style citate?" geeft ze het volgende antwoord: "You can cite an APA style by using the following format:" en dan verder zegt ze niks. Ze kan dus niet zoals chatgpt vertellen hoe je moet citeren. 
 
 
@@ -80,37 +79,37 @@ Als ik haar de vraag stel: "how do you APA style citate?" geeft ze het volgende 
 
 ## PART IVI Critical Reflection & Ethical Considerations
 In hoeverre gaat Replika transparant om met de data die ze verzamelen? Als je naar hun privacy policy gaat (Replika, 2023) staat hierover dat ze het volgende aan data verzamelen: 
-o Account Informatie. Dit omvat uw naam, e-mailadres en wachtwoord.
+* Account Informatie. Dit omvat uw naam, e-mailadres en wachtwoord.
 Berichten en inhoud. Dit omvat de berichten die u verzendt en ontvangt via de Apps, zoals feiten die u over uzelf of uw leven verstrekt, en eventuele foto's, video's en spraak- en sms-berichten die u verstrekt.
 
-o Interesses en voorkeuren.
+* Interesses en voorkeuren.
 
-o Betalingen, transacties en beloningen. 
+* Betalingen, transacties en beloningen. 
 
-o Apparaat- en netwerkgegevens. Dit omvat het besturingssysteem van uw computer of mobiele apparaat, fabrikant en model, browser, IP-adres, apparaat- en cookie-ID's, taalinstellingen, provider van mobiele apparaten en algemene locatiegegevens zoals stad, staat of geografisch gebied.
+* Apparaat- en netwerkgegevens. Dit omvat het besturingssysteem van uw computer of mobiele apparaat, fabrikant en model, browser, IP-adres, apparaat- en cookie-ID's, taalinstellingen, provider van mobiele apparaten en algemene locatiegegevens zoals stad, staat of geografisch gebied.
 
-o Gebruiksgegevens. Dit omvat informatie over hoe u de Services gebruikt, zoals uw interacties met de Services, de links en knoppen waarop u klikt, en paginabezoeken
+* Gebruiksgegevens. Dit omvat informatie over hoe u de Services gebruikt, zoals uw interacties met de Services, de links en knoppen waarop u klikt, en paginabezoeken
 
 Vervolgens is de vraag wat zij precies met deze data doen, volgens de privacy policy het volgende: 
-o Het leveren en onderhouden van de inhoud en functionaliteit van de Diensten. Het uitvoeren van verplichtingen die voortvloeien uit ons contract met u. Het aanmaken van uw account en profiel. Het faciliteren van betalingen en transacties, inclusief voor de aankoop van premiumfuncties, en het beheren van uw beloningen. Reageren op uw vragen, opmerkingen, feedback of vragen, en probleemoplossing. Het beheren van onze relatie met u, waaronder het verzenden van administratieve informatie met betrekking tot onze Diensten.
+*  Het leveren en onderhouden van de inhoud en functionaliteit van de Diensten. Het uitvoeren van verplichtingen die voortvloeien uit ons contract met u. Het aanmaken van uw account en profiel. Het faciliteren van betalingen en transacties, inclusief voor de aankoop van premiumfuncties, en het beheren van uw beloningen. Reageren op uw vragen, opmerkingen, feedback of vragen, en probleemoplossing. Het beheren van onze relatie met u, waaronder het verzenden van administratieve informatie met betrekking tot onze Diensten.
 
-o U een gepersonaliseerde AI-metgezel bieden en u in staat stellen uw profiel, interesses en AI-metgezel te personaliseren. Hierdoor kunt u geïndividualiseerde en veilige gesprekken en interacties voeren met uw AI-metgezel, en kan uw AI-metgezel leren van uw interacties om uw gesprekken te verbeteren. Het synchroniseren van uw Replika-geschiedenis op de apparaten die u gebruikt om toegang te krijgen tot de Services.
+*  U een gepersonaliseerde AI-metgezel bieden en u in staat stellen uw profiel, interesses en AI-metgezel te personaliseren. Hierdoor kunt u geïndividualiseerde en veilige gesprekken en interacties voeren met uw AI-metgezel, en kan uw AI-metgezel leren van uw interacties om uw gesprekken te verbeteren. Het synchroniseren van uw Replika-geschiedenis op de apparaten die u gebruikt om toegang te krijgen tot de Services.
 
-o Het voorkomen van fraude, criminele activiteiten en misbruik van onze Diensten, en het waarborgen van de veiligheid van onze IT-systemen, architectuur en netwerken (inclusief testen, systeemonderhoud, ondersteuning en hosting van gegevens).
+* Het voorkomen van fraude, criminele activiteiten en misbruik van onze Diensten, en het waarborgen van de veiligheid van onze IT-systemen, architectuur en netwerken (inclusief testen, systeemonderhoud, ondersteuning en hosting van gegevens).
 
-o Het analyseren van trends in het gebruik van de Diensten
+*  Het analyseren van trends in het gebruik van de Diensten
 
-o Marketing en reclame voor de Services
+* Marketing en reclame voor de Services
 
-o Het afdwingen van onze overeenkomsten, het naleven van wettelijke verplichtingen en het verdedigen tegen juridische claims en geschillen
+*  Het afdwingen van onze overeenkomsten, het naleven van wettelijke verplichtingen en het verdedigen tegen juridische claims en geschillen
 
 
 En ze delen je informatie vervolgens met de volgende partijen: 
-o Dienstverleners
-o Professionele adviseurs.
-o Advertentiepartners
-o Autoriteiten en anderen
-o Bedrijfsovernemers
+*  Dienstverleners
+*  Professionele adviseurs.
+* Advertentiepartners
+* Autoriteiten en anderen
+* Bedrijfsovernemers
 
 Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Naar mijn mening zijn ze hier niet transparant genoeg in. Je moet actief op zoek gaan naar hun privacy policy wat de meeste gebruikers niet zullen doen. Ze moeten dit voorafgaand aan het gebruik op een behapbare manier (dus niet pagina’s aan tekst) presenteren aan de gebruiker zodat deze weet wat er met hun data gebeurt. 
 
@@ -121,29 +120,29 @@ Vanaf 2026 wordt verwacht dat iedereen die met AI werkt, moet voldoen aan de voo
 Overtreders van de AI Act worden geconfronteerd met aanzienlijke boetes. De maximale boete bedraagt 40 miljoen euro of 7% van hun totale wereldwijde jaaromzet voor het voorgaande boekjaar, afhankelijk van welke van de twee bedragen hoger is.
 
 
-o Onaanvaardbare risico's: Wanneer een AI-systeem handelingen verricht die in strijd zijn met de kernwaarden en normen van Europa, is het niet toegestaan om dit op de Europese markt te gebruiken. Voorbeelden hiervan zijn het gebruik van AI voor predictive policing, waarbij AI probeert te voorspellen of iemand crimineel gedrag zal vertonen, evenals biometrische surveillance, zoals gezichtsherkenning in openbare ruimtes. Deze praktijken worden verboden.
+* Onaanvaardbare risico's: Wanneer een AI-systeem handelingen verricht die in strijd zijn met de kernwaarden en normen van Europa, is het niet toegestaan om dit op de Europese markt te gebruiken. Voorbeelden hiervan zijn het gebruik van AI voor predictive policing, waarbij AI probeert te voorspellen of iemand crimineel gedrag zal vertonen, evenals biometrische surveillance, zoals gezichtsherkenning in openbare ruimtes. Deze praktijken worden verboden.
 
-o Hoge risico's: AI-systemen die aanzienlijke risico's met zich meebrengen voor de gezondheid, veiligheid, fundamentele rechten of het milieu mogen wel worden ingezet, maar alleen onder zeer strikte voorwaarden. Dit omvat de verplichting om de herkomst van de data waarmee de AI is getraind duidelijk te documenteren, menselijk toezicht te waarborgen en te zorgen voor gedegen technische documentatie. Voorbeelden van AI-toepassingen met hoge risico's zijn bepaalde medische hulpmiddelen en algoritmen die gebruikt worden voor het beoordelen van sollicitanten.
+* Hoge risico's: AI-systemen die aanzienlijke risico's met zich meebrengen voor de gezondheid, veiligheid, fundamentele rechten of het milieu mogen wel worden ingezet, maar alleen onder zeer strikte voorwaarden. Dit omvat de verplichting om de herkomst van de data waarmee de AI is getraind duidelijk te documenteren, menselijk toezicht te waarborgen en te zorgen voor gedegen technische documentatie. Voorbeelden van AI-toepassingen met hoge risico's zijn bepaalde medische hulpmiddelen en algoritmen die gebruikt worden voor het beoordelen van sollicitanten.
 
-o Lage risico's: AI-systemen die niet onder de bovengenoemde categorieën vallen, kunnen relatief gemakkelijk op de Europese markt worden ingezet. Deze AI moet echter wel transparant zijn, zodat het duidelijk is dat men met een AI-systeem communiceert en niet met een mens, en de AI mag geen autonome beslissingen nemen (ICTRecht B.V., z.d.).
+* Lage risico's: AI-systemen die niet onder de bovengenoemde categorieën vallen, kunnen relatief gemakkelijk op de Europese markt worden ingezet. Deze AI moet echter wel transparant zijn, zodat het duidelijk is dat men met een AI-systeem communiceert en niet met een mens, en de AI mag geen autonome beslissingen nemen (ICTRecht B.V., z.d.).
 
 Ik zou Replika classiferen als laag risico omdat ze wanneer men hier naar zoekt wel transparant zijn over hun data gebruik. Ze voldoen niet aan het volgende: "waarbij AI probeert te voorspellen of iemand crimineel gedrag zal vertonen, evenals biometrische surveillance, zoals gezichtsherkenning in openbare ruimtes. Deze praktijken worden verboden." Replika wordt puur ingezet voor persoonlijk gebruik, niet voor medische hulpmidellen en ook niet voor het screenen van sollicitanten. Echter denk ik dat er op het gebied van transparantie nog wel verbeteringen zouden kunnen zijn. Zo zou er nog wel meer in de applicatie zelf gezegd kunnen worden over de privacy policy. 
 
 
 ## Bronnen 
-o EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). 
+* EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). 
 
-o Can I become friends with an AI avatar on the replika app? euronews. https://www.euronews.com/next/2023/10/31/can-i-become-friends-with-an-ai-avatar-on-the-replika-app Replika. (z.d.). 
+*  Can I become friends with an AI avatar on the replika app? euronews. https://www.euronews.com/next/2023/10/31/can-i-become-friends-with-an-ai-avatar-on-the-replika-app Replika. (z.d.). 
 
-o Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika- Replika. (2023, 12 juni). replika.com. https://replika.com/legal/privacy 
+* Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika- Replika. (2023, 12 juni). replika.com. https://replika.com/legal/privacy 
 
-o Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
+* Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
 
-o Nematzadeh, A. (z.d.). Evaluating Theory of Mind in Question Answeri. Evaluating Theory of Mind in Question Answeri. Geraadpleegd op 5 november 2023, van https://aclanthology.org/D18-1261.pdf
+*  Nematzadeh, A. (z.d.). Evaluating Theory of Mind in Question Answeri. Evaluating Theory of Mind in Question Answeri. Geraadpleegd op 5 november 2023, van https://aclanthology.org/D18-1261.pdf
 
-o Wat is artificiële intelligentie en hoe wordt het gebruikt? | Nieuws | Europees Parlement. (2020, 9 april). https://www.europarl.europa.eu/news/nl/headlines/society/20200827STO85804/wat-is-artificiele-intelligentie-en-hoe-wordt-het-gebruikt
+* Wat is artificiële intelligentie en hoe wordt het gebruikt? | Nieuws | Europees Parlement. (2020, 9 april). https://www.europarl.europa.eu/news/nl/headlines/society/20200827STO85804/wat-is-artificiele-intelligentie-en-hoe-wordt-het-gebruikt
 
-o ICTRecht B.V. (z.d.). Wat is de AI act en voor wie gaat die gelden? | ICTRecht. https://www.ictrecht.nl/ai-act?utm_term=eu%20ai%20act&utm_campaign=Ai_Act&utm_source=adwords&utm_medium=ppc&hsa_acc=1758681594&hsa_cam=20359493979&hsa_grp=155097659430&hsa_ad=665483010237&hsa_src=g&hsa_tgt=kwd-1632918723554&hsa_kw=eu%20ai%20act&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPycqwyylVX8V_ao9Vw-juXpy5ZwDiFVoszB7WrT6o4PozAz8k5rrUaAoClEALw_wcB
+*  ICTRecht B.V. (z.d.). Wat is de AI act en voor wie gaat die gelden? | ICTRecht. https://www.ictrecht.nl/ai-act?utm_term=eu%20ai%20act&utm_campaign=Ai_Act&utm_source=adwords&utm_medium=ppc&hsa_acc=1758681594&hsa_cam=20359493979&hsa_grp=155097659430&hsa_ad=665483010237&hsa_src=g&hsa_tgt=kwd-1632918723554&hsa_kw=eu%20ai%20act&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPycqwyylVX8V_ao9Vw-juXpy5ZwDiFVoszB7WrT6o4PozAz8k5rrUaAoClEALw_wcB
 
 
 
