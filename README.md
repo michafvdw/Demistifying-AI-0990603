@@ -130,6 +130,8 @@ o Nematzadeh, A. (z.d.). Evaluating Theory of Mind in Question Answeri. Evaluati
 
 o Wat is artificiële intelligentie en hoe wordt het gebruikt? | Nieuws | Europees Parlement. (2020, 9 april). https://www.europarl.europa.eu/news/nl/headlines/society/20200827STO85804/wat-is-artificiele-intelligentie-en-hoe-wordt-het-gebruikt
 
+o ICTRecht B.V. (z.d.). Wat is de AI act en voor wie gaat die gelden? | ICTRecht. https://www.ictrecht.nl/ai-act?utm_term=eu%20ai%20act&utm_campaign=Ai_Act&utm_source=adwords&utm_medium=ppc&hsa_acc=1758681594&hsa_cam=20359493979&hsa_grp=155097659430&hsa_ad=665483010237&hsa_src=g&hsa_tgt=kwd-1632918723554&hsa_kw=eu%20ai%20act&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPycqwyylVX8V_ao9Vw-juXpy5ZwDiFVoszB7WrT6o4PozAz8k5rrUaAoClEALw_wcB
+
 
 
 
