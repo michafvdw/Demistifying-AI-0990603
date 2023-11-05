@@ -3,7 +3,7 @@ Keuzevak hogeschool Rotterdam
 
 
 ## PART I Problem Selection, Definition & Motivation + Human in the Loop
-Artificial Intelligence (AI) is eigenlijk als een slimme (voor automatisering) computer of robot die dingen kan leren en beslissingen kan nemen, net als mensen dat kunnen. Het is als een digitale hersenen die informatie verwerkt, patronen herkent en problemen oplost. AI kan bijvoorbeeld helpen bij het herkennen van gezichten op foto's, het begrijpen van gesproken taal, het spelen van games en nog veel meer. Het is als een slimme assistent die taken kan uitvoeren zonder menselijke tussenkomst. AI wordt steeds beter en wordt gebruikt in allerlei toepassingen, van zelfrijdende auto's tot medische diagnoses, om ons te helpen taken gemakkelijker en efficiënter uit te voeren.
+Artificial Intelligence (AI) is eigenlijk als een slimme (voor automatisering) computer of robot die dingen kan leren en beslissingen kan nemen, net als mensen dat kunnen.Als een digitale hersenen die informatie verwerkt, patronen herkent en problemen oplost. AI kan bijvoorbeeld helpen bij het herkennen van gezichten op foto's, het begrijpen van gesproken taal, het spelen van games en nog veel meer. Het is als een slimme assistent die taken kan uitvoeren zonder menselijke tussenkomst. AI wordt steeds beter en wordt gebruikt in allerlei toepassingen, van zelfrijdende auto's tot medische diagnoses, om ons te helpen taken gemakkelijker en efficiënter uit te voeren.
 
 | Mijn definitie AI | Definitie AI Europees parlement |
 | ------------- | ------------- |
@@ -88,20 +88,25 @@ Apparaat- en netwerkgegevens. Dit omvat het besturingssysteem van uw computer of
 Gebruiksgegevens. Dit omvat informatie over hoe u de Services gebruikt, zoals uw interacties met de Services, de links en knoppen waarop u klikt, en paginabezoeken
 
 Vervolgens is de vraag wat zij precies met deze data doen, volgens de privacy policy het volgende: 
-Het leveren en onderhouden van de inhoud en functionaliteit van de Diensten. Het uitvoeren van verplichtingen die voortvloeien uit ons contract met u. Het aanmaken van uw account en profiel. Het faciliteren van betalingen en transacties, inclusief voor de aankoop van premiumfuncties, en het beheren van uw beloningen. Reageren op uw vragen, opmerkingen, feedback of vragen, en probleemoplossing. Het beheren van onze relatie met u, waaronder het verzenden van administratieve informatie met betrekking tot onze Diensten.
-U een gepersonaliseerde AI-metgezel bieden en u in staat stellen uw profiel, interesses en AI-metgezel te personaliseren. Hierdoor kunt u geïndividualiseerde en veilige gesprekken en interacties voeren met uw AI-metgezel, en kan uw AI-metgezel leren van uw interacties om uw gesprekken te verbeteren. Het synchroniseren van uw Replika-geschiedenis op de apparaten die u gebruikt om toegang te krijgen tot de Services.
-Het voorkomen van fraude, criminele activiteiten en misbruik van onze Diensten, en het waarborgen van de veiligheid van onze IT-systemen, architectuur en netwerken (inclusief testen, systeemonderhoud, ondersteuning en hosting van gegevens).
-Het analyseren van trends in het gebruik van de Diensten
-Marketing en reclame voor de Services
-Het afdwingen van onze overeenkomsten, het naleven van wettelijke verplichtingen en het verdedigen tegen juridische claims en geschillen
+o Het leveren en onderhouden van de inhoud en functionaliteit van de Diensten. Het uitvoeren van verplichtingen die voortvloeien uit ons contract met u. Het aanmaken van uw account en profiel. Het faciliteren van betalingen en transacties, inclusief voor de aankoop van premiumfuncties, en het beheren van uw beloningen. Reageren op uw vragen, opmerkingen, feedback of vragen, en probleemoplossing. Het beheren van onze relatie met u, waaronder het verzenden van administratieve informatie met betrekking tot onze Diensten.
+
+o U een gepersonaliseerde AI-metgezel bieden en u in staat stellen uw profiel, interesses en AI-metgezel te personaliseren. Hierdoor kunt u geïndividualiseerde en veilige gesprekken en interacties voeren met uw AI-metgezel, en kan uw AI-metgezel leren van uw interacties om uw gesprekken te verbeteren. Het synchroniseren van uw Replika-geschiedenis op de apparaten die u gebruikt om toegang te krijgen tot de Services.
+
+o Het voorkomen van fraude, criminele activiteiten en misbruik van onze Diensten, en het waarborgen van de veiligheid van onze IT-systemen, architectuur en netwerken (inclusief testen, systeemonderhoud, ondersteuning en hosting van gegevens).
+
+o Het analyseren van trends in het gebruik van de Diensten
+
+o Marketing en reclame voor de Services
+
+o Het afdwingen van onze overeenkomsten, het naleven van wettelijke verplichtingen en het verdedigen tegen juridische claims en geschillen
 
 
 En ze delen je informatie vervolgens met de volgende partijen: 
-Dienstverleners
-Professionele adviseurs.
-Advertentiepartners
-Autoriteiten en anderen
-Bedrijfsovernemers
+o Dienstverleners
+o Professionele adviseurs.
+o Advertentiepartners
+o Autoriteiten en anderen
+o Bedrijfsovernemers
 
 Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Naar mijn mening zijn ze hier niet transparant genoeg in. Je moet actief op zoek gaan naar hun privacy policy wat de meeste gebruikers niet zullen doen. Ze moeten dit voorafgaand aan het gebruik op een behapbare manier (dus niet pagina’s aan tekst) presenteren aan de gebruiker zodat deze weet wat er met hun data gebeurt. 
 
@@ -116,6 +121,8 @@ o Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-u
 o Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
 
 o Nematzadeh, A. (z.d.). Evaluating Theory of Mind in Question Answeri. Evaluating Theory of Mind in Question Answeri. Geraadpleegd op 5 november 2023, van https://aclanthology.org/D18-1261.pdf
+
+o Wat is artificiële intelligentie en hoe wordt het gebruikt? | Nieuws | Europees Parlement. (2020, 9 april). https://www.europarl.europa.eu/news/nl/headlines/society/20200827STO85804/wat-is-artificiele-intelligentie-en-hoe-wordt-het-gebruikt
 
 
 
