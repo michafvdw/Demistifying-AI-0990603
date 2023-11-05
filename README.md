@@ -80,12 +80,16 @@ Als ik haar de vraag stel: "how do you APA style citate?" geeft ze het volgende 
 
 ## PART IVI Critical Reflection & Ethical Considerations
 In hoeverre gaat Replika transparant om met de data die ze verzamelen? Als je naar hun privacy policy gaat (Replika, 2023) staat hierover dat ze het volgende aan data verzamelen: 
-Account Informatie. Dit omvat uw naam, e-mailadres en wachtwoord.
+o Account Informatie. Dit omvat uw naam, e-mailadres en wachtwoord.
 Berichten en inhoud. Dit omvat de berichten die u verzendt en ontvangt via de Apps, zoals feiten die u over uzelf of uw leven verstrekt, en eventuele foto's, video's en spraak- en sms-berichten die u verstrekt.
-Interesses en voorkeuren.
-Betalingen, transacties en beloningen. 
-Apparaat- en netwerkgegevens. Dit omvat het besturingssysteem van uw computer of mobiele apparaat, fabrikant en model, browser, IP-adres, apparaat- en cookie-ID's, taalinstellingen, provider van mobiele apparaten en algemene locatiegegevens zoals stad, staat of geografisch gebied.
-Gebruiksgegevens. Dit omvat informatie over hoe u de Services gebruikt, zoals uw interacties met de Services, de links en knoppen waarop u klikt, en paginabezoeken
+
+o Interesses en voorkeuren.
+
+o Betalingen, transacties en beloningen. 
+
+o Apparaat- en netwerkgegevens. Dit omvat het besturingssysteem van uw computer of mobiele apparaat, fabrikant en model, browser, IP-adres, apparaat- en cookie-ID's, taalinstellingen, provider van mobiele apparaten en algemene locatiegegevens zoals stad, staat of geografisch gebied.
+
+o Gebruiksgegevens. Dit omvat informatie over hoe u de Services gebruikt, zoals uw interacties met de Services, de links en knoppen waarop u klikt, en paginabezoeken
 
 Vervolgens is de vraag wat zij precies met deze data doen, volgens de privacy policy het volgende: 
 o Het leveren en onderhouden van de inhoud en functionaliteit van de Diensten. Het uitvoeren van verplichtingen die voortvloeien uit ons contract met u. Het aanmaken van uw account en profiel. Het faciliteren van betalingen en transacties, inclusief voor de aankoop van premiumfuncties, en het beheren van uw beloningen. Reageren op uw vragen, opmerkingen, feedback of vragen, en probleemoplossing. Het beheren van onze relatie met u, waaronder het verzenden van administratieve informatie met betrekking tot onze Diensten.
@@ -114,7 +118,16 @@ De AI Act is een wetgeving in Europa die strikte voorschriften vaststelt voor au
 
 Vanaf 2026 wordt verwacht dat iedereen die met AI werkt, moet voldoen aan de voorschriften die in de AI Act zijn vastgelegd.
 
-Overtreders van de AI Act worden geconfronteerd met aanzienlijke boetes. De maximale boete bedraagt 40 miljoen euro of 7% van hun totale wereldwijde jaaromzet voor het voorgaande boekjaar, afhankelijk van welke van de twee bedragen hoger is (ICTRecht B.V., z.d.).
+Overtreders van de AI Act worden geconfronteerd met aanzienlijke boetes. De maximale boete bedraagt 40 miljoen euro of 7% van hun totale wereldwijde jaaromzet voor het voorgaande boekjaar, afhankelijk van welke van de twee bedragen hoger is.
+
+
+o Onaanvaardbare risico's: Wanneer een AI-systeem handelingen verricht die in strijd zijn met de kernwaarden en normen van Europa, is het niet toegestaan om dit op de Europese markt te gebruiken. Voorbeelden hiervan zijn het gebruik van AI voor predictive policing, waarbij AI probeert te voorspellen of iemand crimineel gedrag zal vertonen, evenals biometrische surveillance, zoals gezichtsherkenning in openbare ruimtes. Deze praktijken worden verboden.
+
+o Hoge risico's: AI-systemen die aanzienlijke risico's met zich meebrengen voor de gezondheid, veiligheid, fundamentele rechten of het milieu mogen wel worden ingezet, maar alleen onder zeer strikte voorwaarden. Dit omvat de verplichting om de herkomst van de data waarmee de AI is getraind duidelijk te documenteren, menselijk toezicht te waarborgen en te zorgen voor gedegen technische documentatie. Voorbeelden van AI-toepassingen met hoge risico's zijn bepaalde medische hulpmiddelen en algoritmen die gebruikt worden voor het beoordelen van sollicitanten.
+
+o Lage risico's: AI-systemen die niet onder de bovengenoemde categorieën vallen, kunnen relatief gemakkelijk op de Europese markt worden ingezet. Deze AI moet echter wel transparant zijn, zodat het duidelijk is dat men met een AI-systeem communiceert en niet met een mens, en de AI mag geen autonome beslissingen nemen (ICTRecht B.V., z.d.).
+
+Ik zou Replika classiferen als laag risico omdat ze wanneer men hier naar zoekt wel transparant zijn over hun data gebruik. Ze voldoen niet aan het volgende: "waarbij AI probeert te voorspellen of iemand crimineel gedrag zal vertonen, evenals biometrische surveillance, zoals gezichtsherkenning in openbare ruimtes. Deze praktijken worden verboden." Replika wordt puur ingezet voor persoonlijk gebruik, niet voor medische hulpmidellen en ook niet voor het screenen van sollicitanten. Echter denk ik dat er op het gebied van transparantie nog wel verbeteringen zouden kunnen zijn. Zo zou er nog wel meer in de applicatie zelf gezegd kunnen worden over de privacy policy. 
 
 
 ## Bronnen 
