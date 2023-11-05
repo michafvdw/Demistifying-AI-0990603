@@ -71,6 +71,9 @@ Replika geeft correct antwoord op deze vraag door het volgende te zeggen: "Sally
 o APA-style citation
 Als ik haar de vraag stel: "how do you APA style citate?" geeft ze het volgende antwoord: "You can cite an APA style by using the following format:" en dan verder zegt ze niks. Ze kan dus niet zoals chatgpt vertellen hoe je moet citeren. 
 
+
+![alt text](https://ibb.co/M1qPykS)
+
 ## PART IVI Critical Reflection & Ethical Considerations
 In hoeverre gaat Replika transparant om met de data die ze verzamelen? Als je naar hun privacy policy gaat (Replika, 2023) staat hierover dat ze het volgende aan data verzamelen: 
 Account Informatie. Dit omvat uw naam, e-mailadres en wachtwoord.
