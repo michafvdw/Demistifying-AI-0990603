@@ -73,7 +73,6 @@ Als ik haar de vraag stel: "how do you APA style citate?" geeft ze het volgende 
 
 
 ![alt text](https://i.ibb.co/ykLgmFP/Screenshot-2023-11-05-at-03-54-26.png)
-<a href="https://ibb.co/M1qPykS"><img src="https://i.ibb.co/ykLgmFP/Screenshot-2023-11-05-at-03-54-26.png" alt="Screenshot-2023-11-05-at-03-54-26" border="0"></a>
 
 ## PART IVI Critical Reflection & Ethical Considerations
 In hoeverre gaat Replika transparant om met de data die ze verzamelen? Als je naar hun privacy policy gaat (Replika, 2023) staat hierover dat ze het volgende aan data verzamelen: 
