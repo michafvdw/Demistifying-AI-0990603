@@ -110,6 +110,12 @@ o Bedrijfsovernemers
 
 Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Naar mijn mening zijn ze hier niet transparant genoeg in. Je moet actief op zoek gaan naar hun privacy policy wat de meeste gebruikers niet zullen doen. Ze moeten dit voorafgaand aan het gebruik op een behapbare manier (dus niet pagina’s aan tekst) presenteren aan de gebruiker zodat deze weet wat er met hun data gebeurt. 
 
+De AI Act is een wetgeving in Europa die strikte voorschriften vaststelt voor autonome computersystemen in de Europese Unie, met name systemen die zelfstandig beslissingen nemen, content genereren of mensen assisteren. Het hoofddoel van de AI Act is ervoor te zorgen dat individuen en bedrijven binnen de EU kunnen vertrouwen op AI-systemen die veilig, transparant, traceerbaar, niet-discriminerend en milieuvriendelijk zijn, en die onder menselijk toezicht staan.
+
+Vanaf 2026 wordt verwacht dat iedereen die met AI werkt, moet voldoen aan de voorschriften die in de AI Act zijn vastgelegd.
+
+Overtreders van de AI Act worden geconfronteerd met aanzienlijke boetes. De maximale boete bedraagt 40 miljoen euro of 7% van hun totale wereldwijde jaaromzet voor het voorgaande boekjaar, afhankelijk van welke van de twee bedragen hoger is (ICTRecht B.V., z.d.).
+
 
 ## Bronnen 
 o EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). 
