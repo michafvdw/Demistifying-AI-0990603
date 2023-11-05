@@ -3,9 +3,16 @@ Keuzevak hogeschool Rotterdam
 
 
 ## PART I Problem Selection, Definition & Motivation + Human in the Loop
-Artificial Intelligence (AI) is eigenlijk als een slimme computer of robot die dingen kan leren en beslissingen kan nemen, net als mensen dat kunnen. Het is als een digitale hersenen die informatie verwerkt, patronen herkent en problemen oplost. AI kan bijvoorbeeld helpen bij het herkennen van gezichten op foto's, het begrijpen van gesproken taal, het spelen van games en nog veel meer. Het is als een slimme assistent die taken kan uitvoeren zonder menselijke tussenkomst. AI wordt steeds beter en wordt gebruikt in allerlei toepassingen, van zelfrijdende auto's tot medische diagnoses, om ons te helpen taken gemakkelijker en efficiënter uit te voeren.
+Artificial Intelligence (AI) is eigenlijk als een slimme (voor automatisering) computer of robot die dingen kan leren en beslissingen kan nemen, net als mensen dat kunnen. Het is als een digitale hersenen die informatie verwerkt, patronen herkent en problemen oplost. AI kan bijvoorbeeld helpen bij het herkennen van gezichten op foto's, het begrijpen van gesproken taal, het spelen van games en nog veel meer. Het is als een slimme assistent die taken kan uitvoeren zonder menselijke tussenkomst. AI wordt steeds beter en wordt gebruikt in allerlei toepassingen, van zelfrijdende auto's tot medische diagnoses, om ons te helpen taken gemakkelijker en efficiënter uit te voeren.
 
+| Mijn definitie AI | Definitie AI  |
+| ------------- | ------------- |
+| Artificial Intelligence (AI) is eigenlijk als een slimme (voor automatisering) computer of robot die dingen kan leren en beslissingen kan nemen, net als mensen dat kunnen. Het is als een digitale hersenen die informatie verwerkt, patronen herkent en problemen oplost. AI kan bijvoorbeeld helpen bij het herkennen van gezichten op foto's, het begrijpen van gesproken taal, het spelen van games en nog veel meer. Het is als een slimme assistent die taken kan uitvoeren zonder menselijke tussenkomst. AI wordt steeds beter en wordt gebruikt in allerlei toepassingen, van zelfrijdende auto's tot medische diagnoses, om ons te helpen taken gemakkelijker en efficiënter uit te voeren. | AI is de mogelijkheid van een machine om mensachtige vaardigheden te vertonen - zoals redeneren, leren, plannen en creativiteit.
 
+AI maakt het voor technische systemen mogelijk om hun omgeving waar te nemen, om te gaan met deze waarnemingen en problemen op te lossen om een specifiek doel te bereiken. De computer ontvangt data - reeds voorbereid en verzameld via eigen sensoren, zoals een camera - verwerkt deze en reageert erop.
+
+AI-systemen zijn in staat om hun gedrag in zekere mate aan te passen, door het effect van vorige acties te analyseren en autonoom te werken.  |
+| Content Cell  | Content Cell  |
 
 Hier zijn vijf kenmerken van kunstmatige intelligentie (AI):
 
