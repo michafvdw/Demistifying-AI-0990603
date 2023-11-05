@@ -5,6 +5,8 @@ Keuzevak hogeschool Rotterdam
 ## PART I Problem Selection, Definition & Motivation + Human in the Loop
 Artificial Intelligence (AI) is eigenlijk als een slimme computer of robot die dingen kan leren en beslissingen kan nemen, net als mensen dat kunnen. Het is als een digitale hersenen die informatie verwerkt, patronen herkent en problemen oplost. AI kan bijvoorbeeld helpen bij het herkennen van gezichten op foto's, het begrijpen van gesproken taal, het spelen van games en nog veel meer. Het is als een slimme assistent die taken kan uitvoeren zonder menselijke tussenkomst. AI wordt steeds beter en wordt gebruikt in allerlei toepassingen, van zelfrijdende auto's tot medische diagnoses, om ons te helpen taken gemakkelijker en efficiënter uit te voeren.
 
+
+
 Hier zijn vijf kenmerken van kunstmatige intelligentie (AI):
 
 1.Leren en aanpassen: AI-systemen kunnen leren van gegevens en ervaringen, en ze kunnen zich aanpassen en verbeteren na verloop van tijd. Dit vermogen om te leren maakt AI flexibel en in staat om nieuwe taken aan te pakken.
@@ -103,7 +105,15 @@ Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Na
 
 
 ## Bronnen 
-EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). Can I become friends with an AI avatar on the replika app? euronews. https://www.euronews.com/next/2023/10/31/can-i-become-friends-with-an-ai-avatar-on-the-replika-app Replika. (z.d.). Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika- Replika. (2023, 12 juni). replika.com. https://replika.com/legal/privacy Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
+o EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). 
+
+o Can I become friends with an AI avatar on the replika app? euronews. https://www.euronews.com/next/2023/10/31/can-i-become-friends-with-an-ai-avatar-on-the-replika-app Replika. (z.d.). 
+
+o Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika- Replika. (2023, 12 juni). replika.com. https://replika.com/legal/privacy 
+
+o Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
+
+o Nematzadeh, A. (z.d.). Evaluating Theory of Mind in Question Answeri. Evaluating Theory of Mind in Question Answeri. Geraadpleegd op 5 november 2023, van https://aclanthology.org/D18-1261.pdf
 
 
 
