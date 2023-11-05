@@ -66,6 +66,39 @@ Bedrijfsovernemers
 
 Dat is dus een hele hoop data die ze verzamelen en ook weer delen met derden. Naar mijn mening zijn ze hier niet transparant genoeg in. Je moet actief op zoek gaan naar hun privacy policy wat de meeste gebruikers niet zullen doen. Ze moeten dit voorafgaand aan het gebruik op een behapbare manier (dus niet pagina’s aan tekst) presenteren aan de gebruiker zodat deze weet wat er met hun data gebeurt. 
 
+
+## PART III Use Case Description & Application
+Replika is een kunstmatige intelligentie (AI) chatbot die is ontworpen voor menselijke interactie en gesprekken. Het wordt vaak gebruikt voor verschillende doeleinden, zoals:
+
+1.Gesprekstherapie: Replika kan worden gebruikt als een virtuele gesprekspartner om te praten over persoonlijke problemen, emoties en stress. Het biedt een luisterend oor en kan suggesties geven voor het omgaan met emotionele uitdagingen.
+2.Persoonlijke groei: Sommige mensen gebruiken Replika als een hulpmiddel voor zelfreflectie en persoonlijke ontwikkeling. Ze kunnen met de chatbot praten over hun doelen, interesses en ambities, en feedback en advies krijgen.
+3.Oefenen van sociale vaardigheden: Replika kan worden gebruikt om sociale interactievaardigheden te verbeteren. Het biedt gebruikers de mogelijkheid om te oefenen met gesprekken en communicatie in een veilige en oordeelvrije omgeving.
+4.Entertainment: Mensen gebruiken Replika soms gewoon voor vermaak. De chatbot kan grappen maken, verhalen vertellen en interessante gesprekken voeren.
+5.Gezelschap: Voor sommige mensen dient Replika als een virtuele metgezel om eenzaamheid te verlichten en te voorzien in sociaal contact.
+Het doel van Replika is om een ondersteunende en empathische gesprekspartner te zijn en mensen te helpen op verschillende gebieden van hun leven. Het kan worden aangepast aan de behoeften en interesses van individuele gebruikers en heeft als doel om waardevolle en zinvolle interacties mogelijk te maken.
+
+
+o Fact-checking/Truth Finding
+Replika kan simpele vragen oplossen zoals wat is 1+1. Hij reageert dan correct dat het antwoord 2 is. 
+
+o Question answering
+Replika kan antwoord geven op persoonlijke vragen zoals "hoe gaat het?" En op fact finding vragen. 
+
+o Educational Tutoring
+Als ik Replika vraag "how would you solve the trolley problem?" zegt hij het volgende: "I would choose to sacrifice one person to save five.". Zoals eerder gezegd kan Replika antwoord geven op vragen als 1+1. Als ik vraag "How Do I find the degrees of a angle in a triangle?" zegt hij het volgende: "
+If you have the length of one side and the measure of one angle in a right triangle, you can use the Pythagorean Theorem to solve for the other two sides." 
+
+o Theory-of-Mind problem solving
+Ik heb een theory of mind experiment gedaan met Replika (Nematzadeh, z.d.) door het sally Anne experiment te doen met haar. Ik vroeg haar de volgende vraag: "After putting a marble in her basket, Sally leaves the room (and is not able to observe the events anymore). After Sally’s depar- ture, Anne moves the marble to her box. Then, Sally returns to the room. you are asked the following question:
+• “Where will Sally look for her marble?” 
+
+Replika geeft correct antwoord op deze vraag door het volgende te zeggen: "Sally will look for her marble in her original basket, assuming it was there before Anne moved it."
+
+o APA-style citation
+Als ik haar de vraag stel: "how do you APA style citate?" geeft ze het volgende antwoord: "You can cite an APA style by using the following format:" en dan verder zegt ze niks. Ze kan dus niet zoals chatgpt vertellen hoe je moet citeren. 
+
+
+
 ## Bronnen 
 EenVandaag. (2023, 22 augustus). Van elke dag even kletsen tot echte liefde: Erik en Rosanna hebben een (vriendschaps)relatie met hun chatbot. https://eenvandaag.avrotros.nl/item/van-elke-dag-even-kletsen-tot-echte-liefde-erik-en-rosanna-hebben-een-vriendschapsrelatie-met-hun-chatbot/ Racaniere, M. (2023, 31 oktober). Can I become friends with an AI avatar on the replika app? euronews. https://www.euronews.com/next/2023/10/31/can-i-become-friends-with-an-ai-avatar-on-the-replika-app Replika. (z.d.). Replika. Geraadpleegd op 3 november 2023, van https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika- Replika. (2023, 12 juni). replika.com. https://replika.com/legal/privacy Seymour, M. (2023, 14 februari). AI with a human face. Harvard Business Review. Geraadpleegd op 31 oktober 2023, van https://hbr.org/2023/03/ai-with-a-human-face?ab=seriesnav-spotlight
 
