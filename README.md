@@ -21,7 +21,8 @@ Hier zijn vijf kenmerken van kunstmatige intelligentie (AI) opgesteld door mij:
 
 * Taakspecifieke en algemene AI: AI kan taakspecifiek of algemeen zijn. Taakspecifieke AI is ontworpen voor een specifieke taak, zoals het spelen van schaak of het vertalen van talen. Algemene AI, ook wel bekend als sterke AI, zou in staat zijn om een breed scala aan taken uit te voeren en menselijke intelligentie te evenaren in verschillende domeinen. Momenteel zijn de meeste AI-systemen taakspecifiek.
 
-{infographic  AI} 
+<a href="https://ibb.co/7jM42bT"><img src="https://i.ibb.co/YPnZpbK/Screenshot-2023-11-09-at-17-08-24.png" alt="Screenshot-2023-11-09-at-17-08-24" border="0"></a>
+
 
 
 ## PART II AI Data Product Description of Replika
